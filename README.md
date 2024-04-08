@@ -1,0 +1,9 @@
+
+Final Project - Finding Anomaly in video Analysis
+Nowadays, there are many events which might happen in public fields, parks, malls, etc... and even private places such as banks, corporation buildings, etc...
+Those tasks require security camera and a person to monitor them. If there are multiple cameras, its really hard to keep track on all of them and the person incharge might miss some events...
+Thats what my team and I are trying to solve ! given a video, detect if there is any anomaly in it ! 
+Anomaly types : Arson, Abuse, Assault, Explosion, Shoplifting, Vandalism and more...
+
+we are using 3D CNN (3 Dimension Convolutional Network) to create a model that will predict if there is an anomaly in a given video,
+and hopefully when we are done, this can be applied to live safety cameras !
