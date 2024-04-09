@@ -1,8 +1,10 @@
 
 #****Video Anomaly Detection Analysis****
+
 This project is focused on developing a machine learning model for anomaly detection in video data. The main objective is to classify video events as either normal or anomalous, which is crucial in various applications like security surveillance, safety monitoring, and event detection systems.
 
 ****Overview****
+
 The code provides a comprehensive workflow for video anomaly detection, starting from data preparation to model training, validation, and testing. It includes the following key components:
 
 ****Data Preparation****
